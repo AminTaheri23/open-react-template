@@ -203,7 +203,7 @@ export default function Footer() {
             <div className="mb-3">
               <Logo />
             </div>
-            <div className="text-sm">
+            {/* <div className="text-sm">
               <p className="mb-3 text-red-200/65">
                 © Cruip.com
                 <span className="text-gray-700"> · </span>
@@ -261,7 +261,7 @@ export default function Footer() {
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
