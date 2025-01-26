@@ -17,7 +17,7 @@ export default function Home() {
       <PageIllustration />
       <Hero />
       <VisionMissionValues />
-      <Features />
+      {/* <Features /> */}
       {/* <Testimonials /> */}
       <Cta />
       <Workflows />
